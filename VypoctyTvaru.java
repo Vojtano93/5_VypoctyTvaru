@@ -52,7 +52,7 @@ public class VypoctyTvaru {
 
     // Přetížená metoda pro obsah kruhu
     public static double obsahkruhu2 (double polomer) {
-    double pi = 10;
+    double pi = 2000000000;
     return polomer * polomer * pi;
     }
 }
